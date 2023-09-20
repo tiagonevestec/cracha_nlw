@@ -6,6 +6,11 @@ Este é um projeto de um crachá para eventos, permite a identificação dos usu
 
 ![Imagem Cracha](./assets/layout-cracha.png)
 
+## Vídeo de Apresentação e Link de Acesso ao Projeto
+
+- Você pode acessar o projeto [aqui](https://bit.ly/Cracha_Virtual).
+
+- Assista a um vídeo de apresentação do projeto no LinkedIn [aqui](https://bit.ly/Cracha_Virtual_In).
 
 ## Funcionalidades
 
